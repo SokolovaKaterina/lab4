@@ -1,0 +1,10 @@
+com\university\application\ApplicationServiceImpl.class
+com\university\domain\EmployeeRepository.class
+com\university\domain\DepartmentRepository.class
+com\university\application\AppConfig.class
+com\university\domain\DepartmentRepositoryImpl.class
+com\university\application\ApplicationService.class
+com\university\domain\EmployeeRepositoryImpl.class
+com\university\presentation\Main.class
+com\university\domain\Department.class
+com\university\domain\Employee.class
